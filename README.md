@@ -13,3 +13,4 @@ Features.
 - ✔️Can view available folders.
 - ✔️Will not crash when trying to access restricted areas, instead shows errors and returns to the last directory.
 - ✔️Nice and friendly user interface.
+- ✔️Has an interactive menu interface.
