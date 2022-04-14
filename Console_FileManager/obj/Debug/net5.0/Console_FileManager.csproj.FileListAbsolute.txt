@@ -1,0 +1,16 @@
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.csproj.AssemblyReference.cache
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.AssemblyInfo.cs
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.exe
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.deps.json
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.runtimeconfig.json
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.runtimeconfig.dev.json
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.dll
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\bin\Debug\net5.0\Console_FileManager.pdb
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.dll
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\refint\Console_FileManager.dll
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.pdb
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\Console_FileManager.genruntimeconfig.cache
+C:\Users\William\source\repos\Console_FileManager\Console_FileManager\obj\Debug\net5.0\ref\Console_FileManager.dll
